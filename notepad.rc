@@ -125,26 +125,26 @@ BEGIN
     IDS_MERGE1       "%%"
     IDS_DISKERROR   "Cannot open the %% file.\n\nMake sure a disk is in the drive you specified."
     IDS_FNF         "Cannot find the %% file.\n\nDo you want to create a new file?"
-    IDS_SCBC        "The text in the %% file has changed.\n\nDo you want to save the changes?"
-    IDS_UNTITLED    "Untitled"
+    IDS_SCBC        "The text in the %% file has changed. Nocap.\n\nDo you want to save the changes?"
+    IDS_UNTITLED    "Untitled Shit"
     IDS_NOTEPAD     " - Notepad"
-    IDS_CFS         "Cannot find ""%%"""
+    IDS_CFS         "Cannot fucking find ""%%"""
     /* The following is a generic out of memory message which can also be
        system modal so no /n can appear in it. */
-    IDS_ERRSPACE    "Not enough memory available to complete this operation. Quit one or more applications to increase available memory, and then try again."
+    IDS_ERRSPACE    "Not enough memory available to complete this operation. Quit one or more applications to increase available memory, and then try again. Do you really need to fucking use facebook right now or ME?"
     IDS_FTL         "The %% file is too large for Notepad.\n\nUse another editor to edit the file."
     IDS_NN          "Notepad"
-    IDS_COMMDLGINIT "Failed to Initialize File Dialogs. Change the Filename and try again."
-    IDS_PRINTDLGINIT "Failed to Initialize Print Dialogs. Make sure that your printer is connected properly and use Control Panel to verify that the printer is configured properly."
+    IDS_COMMDLGINIT "Failed to Initialize File Dialogs. Change the Filename and, I don't know, TRY AGAIN!"
+    IDS_PRINTDLGINIT "Failed to Initialize Print Dialogs. Make sure that your printer is connected properly and use Control Panel to verify that the printer is configured properly.\n\How do you not connect a printer properly? Unless you're a dumbass."
     IDS_CANTPRINT   "Cannot print the %% file. Be sure that your printer is connected properly and use Control Panel to verify that the printer is configured properly."
-    IDS_NVF         "Not a valid file name."
+    IDS_NVF         "Not a valid file name. Bitches be trippin'."
     IDS_CREATEERR   "Cannot create the %% file.\n\nMake sure that the path and filename are correct."
-    IDS_NOWW        "Cannot carry out the Word Wrap command because there is too much text in the file."
+    IDS_NOWW        "Cannot carry out the Word Wrap command because there is too much text in the fucking file."
     IDS_HELPFILE    "notepad.hlp"
     IDS_HEADER      "&f"
     IDS_FOOTER      "Page &p"
 
-    IDS_ACCESSDENY  "%%\nYou do not have permission to open this file.  See the owner of the file or an administrator to obtain permission."
+    IDS_ACCESSDENY  "%%\nDamn bruh. You do not have permission to open this file.  See the owner of the file or an administrator to obtain permission."
 
 
     IDS_ANSITEXT    "Text Documents (*.txt)" /* filter text for File/Open */
@@ -154,8 +154,8 @@ BEGIN
     IDS_CANNOTQUIT  "You cannot quit Windows because the Save As dialog\nbox in Notepad is open.  Switch to Notepad, close this\ndialog box, and then try quitting Windows again."
     IDS_LOADDRVFAIL "Cannot access your printer.\nBe sure that your printer is connected properly and use Control Panel to verify that the printer is configured properly."
     IDS_ERRUNICODE  "%%\n This file contains characters in Unicode format which will be lost if you save this file as an ANSI encoded text file. To keep the Unicode information, click Cancel below and then select one of the Unicode options from the Encoding drop down list. Continue?"
-    IDS_FONTTOOBIG  "Page too small to print one line.\nTry printing using smaller font."
-    IDS_COMMDLGERR  "Common Dialog error (0x%04x)"
+    IDS_FONTTOOBIG  "Page too small to print one line.\nTry printing using smaller font dumbass."
+    IDS_COMMDLGERR  "Common Dialog error (0x%04x) (but you wouldn't know because you're a dumbass)"
 
     IDS_LINEERROR    "Notepad - Goto Line"
     IDS_LINETOOLARGE "Line number out of range"
